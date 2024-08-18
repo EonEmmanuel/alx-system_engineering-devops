@@ -49,3 +49,6 @@ Here is a sample script that can be used to ensure the Nginx configuration is pr
 
 #This script copies the default Nginx configuration from the "sites-available" directory to the #"sites-enabled" directory and then restarts the Nginx service to apply the changes.
 
+
+#FlowChart
+(./flowchart.png)
