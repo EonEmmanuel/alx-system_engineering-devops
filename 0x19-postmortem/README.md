@@ -51,4 +51,4 @@ Here is a sample script that can be used to ensure the Nginx configuration is pr
 
 
 #FlowChart
-(./flowchart.png)
+![Nginx Configuration Flow](./flowchart.png)
